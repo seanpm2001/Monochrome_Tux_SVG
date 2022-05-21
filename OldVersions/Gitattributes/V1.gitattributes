@@ -1,0 +1,7 @@
+# Monochrome Tux SVG (fork of svg-tux by johndrinkwater)
+# SVG (Scalable Vector Graphics) image file
+*.svg linguist-detectable=true
+*.svg linguist-documentation=false
+*.svg linguist-language=SVG
+# File info
+# File version: 1 (2022, Saturday, May 21st at 3:51 pm PST)
